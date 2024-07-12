@@ -22,14 +22,3 @@ The **Army Health and Monitoring System** is a hardware project designed to moni
 ## Software
 - **IDE**: Arduino Software (IDE)
 - **Programming Language**: C++
-
-## Getting Started
-### Prerequisites
-- Arduino Uno
-- DHT11 Sensor
-- LDR Sensor
-- Pulse Sensor
-- GPS Tracker with GSM Module
-- LCD Display with I2C Interface
-- Emergency Push Button
-- Arduino Software (IDE)
